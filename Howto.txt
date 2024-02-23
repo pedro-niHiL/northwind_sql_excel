@@ -1,0 +1,32 @@
+- Análise de Vendas por Categoria:
+Importe dados de vendas, produtos e categorias para o Excel.
+Use consultas SQL para calcular a receita total por categoria.
+Crie gráficos de barras ou gráficos de pizza no Excel para visualizar a distribuição de vendas por categoria.
+
+- Desempenho de Vendedores:
+Importe dados de vendas e funcionários para o Excel.
+Utilize consultas SQL para calcular as vendas totais realizadas por cada vendedor.
+Crie tabelas dinâmicas no Excel para analisar o desempenho de vendas de cada funcionário ao longo do tempo.
+
+- Acompanhamento de Pedidos e Fornecedores:
+Importe dados de pedidos, produtos e fornecedores para o Excel.
+Use consultas SQL para identificar os fornecedores mais frequentemente usados.
+Crie um dashboard no Excel para monitorar o status dos pedidos e a relação com os fornecedores.
+
+- Análise de Clientes:
+Importe dados de clientes e pedidos para o Excel.
+Utilize consultas SQL para calcular a frequência de compra de cada cliente.
+Crie gráficos ou tabelas dinâmicas para identificar os clientes mais valiosos em termos de receita.
+
+- Inventário e Reabastecimento:
+Importe dados de produtos e estoques para o Excel.
+Use consultas SQL para identificar produtos com estoque baixo.
+Crie alertas no Excel para indicar quando é necessário reabastecer determinados produtos.
+
+- Relatório de Produtos Mais Vendidos:
+Importe dados de produtos e pedidos para o Excel.
+Utilize consultas SQL para identificar os produtos mais vendidos.
+Crie um relatório no Excel destacando os produtos mais populares.
+
+--------------------------------Lembrete----------------------------------------------------------
+A ordem típica da cláusula é SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY.
